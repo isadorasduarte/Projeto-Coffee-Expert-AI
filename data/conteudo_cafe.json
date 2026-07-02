@@ -1,0 +1,42 @@
+[
+  {
+    "tema": "O que é café?",
+    "conteudo": "O café é uma bebida feita a partir dos grãos torrados da planta do café. É uma das bebidas mais consumidas do mundo e pode ser preparado de várias formas diferentes."
+  },
+  {
+    "tema": "Quais são os tipos de café?",
+    "conteudo": "Os principais tipos de café são: espresso, cappuccino, latte, café coado e café com leite."
+  },
+  {
+    "tema": "O que é espresso?",
+    "conteudo": "O espresso é um café concentrado feito com água quente sob pressão passando por café moído fino, resultando em uma bebida forte e intensa."
+  },
+  {
+    "tema": "O que é cappuccino?",
+    "conteudo": "Cappuccino é uma bebida feita com espresso, leite vaporizado e espuma de leite em proporções equilibradas."
+  },
+  {
+    "tema": "O que é latte?",
+    "conteudo": "Latte é uma bebida feita com espresso e bastante leite vaporizado, tendo uma camada fina de espuma por cima."
+  },
+  {
+    "tema": "Como fazer cappuccino?",
+    "conteudo": "Prepare um espresso, aqueça o leite até formar espuma e misture tudo em partes equilibradas de café, leite e espuma."
+  },
+  {
+    "tema": "Como fazer café coado?",
+    "conteudo": "Coloque o filtro com café moído em um suporte, despeje água quente lentamente e deixe a bebida passar naturalmente."
+  },
+  {
+    "tema": "Como fazer café com leite?",
+    "conteudo": "Prepare um café comum e adicione leite quente na proporção que preferir."
+  },
+  {
+    "tema": "Qual a diferença entre cappuccino e latte?",
+    "conteudo": "O cappuccino tem mais espuma e equilíbrio entre café, leite e espuma. O latte tem mais leite e menos espuma."
+  },
+  {
+    "tema": "Qual café é mais forte?",
+    "conteudo": "O espresso é geralmente considerado mais forte por ser mais concentrado e intenso."
+  }
+]
