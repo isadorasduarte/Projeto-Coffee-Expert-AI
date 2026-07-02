@@ -4,7 +4,7 @@
 
 | Arquivo | Formato | Para que serve no Coffee Expert AI |
 |----------|--------|-------------------------------------|
-| conhecimento.json | JSON | Contém informações principais sobre café (tipos, bebidas e preparo) |
+| conteudo_cafe.json | JSON | Contém informações principais sobre café (tipos, bebidas e preparo) |
 
 ---
 
